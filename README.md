@@ -7,6 +7,7 @@ This is a collection of my recent projects in Generative AI, built during my MSc
 ## 📌 1. [LLM-Based Product Recommender](https://github.com/zench2302/llm-recommender)
 
 **Description:** 
+
 Developed an end-to-end recommendation system powered by LLMs for Amazon product reviews. The system embeds product metadata and review content using Flan-T5 and MiniLM, then computes similarity via Faiss for real-time Top-N recommendations.
 
 **Key Technologies:**
@@ -27,6 +28,7 @@ Developed an end-to-end recommendation system powered by LLMs for Amazon product
 
 
 **Selected Outputs**
+
 <img src="assets/LLM_recitem3.png" width="720">
 
 
