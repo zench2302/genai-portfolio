@@ -21,6 +21,25 @@ Developed an end-to-end recommendation system powered by LLMs for Amazon product
 - Designed prompt chain for category-aware recommendations  
 - Optimized for fast response on local CPU setup
 
+## 🔁 System and Recommendation Pipeline 
+
+<img src="assets/LLM_pipeline.png" width="720">
+
+---
+
+## 🧾 Selected Outputs
+<img src="assets/LLM_recitem3.png" width="720">
+
+---
+
+## 📊 Evaluation Snapshot
+
+| Metric                  | Score (non-cold start) |
+|-------------------------|------------------------|
+| Semantic Match (CosSim) | 71.8%                  |
+| Ad Diversity            | 82.6%                  |
+| Avg. Product Rating     | 4.31                   |
+
 ---
 
 ## 📌 2. [Twitch Topic Extraction & Sentiment Analysis](https://github.com/zench2302/Twitch_stream_analytics)
