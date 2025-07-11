@@ -23,7 +23,7 @@ Developed an end-to-end recommendation system powered by LLMs for Amazon product
 
 #### System and Recommendation Pipeline 
 
-<img src="assets/LLM_pipeline.png" width="720">
+<img src="assets/LLM_pipeline.png" width="640">
 
 
 #### Selected Outputs
