@@ -23,7 +23,7 @@ Developed an end-to-end recommendation system powered by LLMs for Amazon product
 
 ---
 
-## 📌 2. Twitch Topic Extraction & Sentiment Analysis
+## 📌 2. [Twitch Topic Extraction & Sentiment Analysis](https://github.com/zench2302/Twitch_stream_analytics)
 
 **Description:**  
 Built a real-time system to extract dominant topics and sentiment streams from Twitch chat logs. Designed to detect mood shifts and trending discussion in live streams.
@@ -41,7 +41,7 @@ Built a real-time system to extract dominant topics and sentiment streams from T
 
 ---
 
-## 📌 3. AI-Powered Travel Planner
+## 📌 3. [AI-Powered Travel Planner - Vibego](https://github.com/zench2302/vibego2)
 
 **Description:**  
 An AI-assisted travel itinerary generator that combines OpenAI's GPT API with Google Maps data to produce city-specific, time-aware plans.
