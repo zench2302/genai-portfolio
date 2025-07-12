@@ -17,22 +17,23 @@ Welcome! This is a collection of my recent projects in Generative AI, built duri
 
 ## 📌 1. [LLM-Based Product Recommender](https://github.com/zench2302/llm-recommender)
 
-**Description:** 
+### Description: 
 
 Developed an end-to-end recommendation system powered by LLMs for Amazon product reviews. The system embeds product metadata and review content using Flan-T5 and MiniLM, then computes similarity via Faiss for Top-5 recommendations.
 
-**Key Technologies**:  
+### Key Technologies:  
 - Nous-Hermes-2 (Mistral) for generating user profiles from review history
 - Flan-T5 for generating ad-style recommendation reasons  
 - BGE (BAAI) and MiniLM embeddings for product and user vectorization  
 - FAISS for approximate nearest neighbor (ANN) vector search and candidate retrieval  
 - Prompt engineering for review summarization and recommendation reasoning
 
-**System and Recommendation Pipeline**
+### System and Recommendation Pipeline
 
 <img src="assets/LLM_pipeline.png" width="640">
 
-**User Profiling Prompt (Mistral)**
+### Prompts Engineering
+**(1) User Profiling Prompt (Mistral)**
 ```text
 You are a professional shopping assistant.
 
@@ -81,7 +82,7 @@ Return JSON with:
 ```
 </details>
 
-**Ad-Slogan Prompt summary (Flan-T5)**
+**(2) Ad-Slogan Prompt summary (Flan-T5)**
 ```text
 You are an expert e-commerce copywriter creating unique, playful ad slogans.
 
@@ -142,12 +143,12 @@ Output:
 ```
 </details>
 
-**Selected Outputs**
+### Selected Outputs
 
 <img src="assets/LLM_recitem3.png" width="720">
 
 
-**Evaluation Snapshot**
+### Evaluation Snapshot
 
 | Metric                  | Score (non-cold start) |
 |-------------------------|------------------------|
