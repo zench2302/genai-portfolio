@@ -1,6 +1,22 @@
+## 📚 Table of Contents
+
+- 🧠 [Jia Jia – GenAI Project Portfolio](#-jia-jia--genai-project-portfolio)
+  - 📌 [LLM-Based Product Recommender](https://github.com/zench2302/llm-recommender)
+  - 📌 [Twitch Topic Extraction & Sentiment Analysis](https://github.com/zench2302/Twitch_stream_analytics)
+  - 📌 [AI-Powered Travel Planner – Vibego](https://github.com/zench2302/vibego2)
+
+- 🧑‍🎨 [🎨 Creative Tech](#creative-tech)
+  - 🎧 [Live Coding with Strudel](#-live-coding-with-strudel-exploring-code-based-music-interaction)
+
+  
 # 🧠 Jia Jia – GenAI Project Portfolio
 
-This is a collection of my recent projects in Generative AI, built during my MSc Data Science at LSE and reflecting my transition into AI product development. My focus has been on LLM-based recommendation systems, retrieval-augmented generation (RAG), and prompt engineering with open-source tools.
+Welcome! This is a collection of my recent projects in Generative AI, built during my MSc Data Science at LSE and reflecting my transition into AI product development. My focus has been on LLM-based recommendation systems, retrieval-augmented generation (RAG), and prompt engineering with open-source tools.
+
+## 📚 Table of Contents
+- [🧠 Jia Jia – GenAI Project Portfolio](#-jia-jia--genai-project-portfolio)
+- [🎨 Creative Tech](#creative-tech)
+  - [🎧 Live Coding with Strudel](#-live-coding-with-strudel-exploring-code-based-music-interaction)
 
 ---
 
@@ -77,6 +93,22 @@ An AI-assisted travel itinerary generator that combines OpenAI's GPT API with Go
 - Designed for deployment as a lightweight web app
 
 ---
+# Creative Tech
+### 1. 🎧 Live Coding with Strudel: Exploring Code-Based Music Interaction
+London Data Week 2025 – Algorave Workshop @ King’s Institute for AI
+
+In this hands-on workshop, I explored the intersection of code, rhythm, and creative expression using Strudel — a browser-based live coding tool for generative music. Participants learned to construct musical patterns through time-based code snippets and were invited to perform their compositions in an open stage format.
+
+While I didn’t create a full performance piece, I gained direct experience in:
+
+- Writing loop-based musical patterns using declarative syntax
+
+- Understanding how code structure translates to rhythm and timing
+
+- Experiencing the dynamics of collaborative, real-time generative systems
+
+The session also prompted reflection on the human-computer interaction aspect of creative coding: how intuitive (or not) such tools are for newcomers, and how live-coded performances affect audience perception. This exploration connects back to my broader interest in generative AI and interactive systems design, where usability, expressiveness, and emotional impact must be balanced.
+
 
 ## 📫 Contact
 
