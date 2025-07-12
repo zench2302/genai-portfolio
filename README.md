@@ -145,7 +145,6 @@ Output:
 
 💡 Full prompt templates available in [PROMPTS.md](PROMPTS.md)
 
----
 
 ### Selected Outputs
 
