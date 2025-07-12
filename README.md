@@ -66,6 +66,40 @@ Your task:
 - Avoid repeating product name or brand
 - Use playful, emotional, or surprising tone
 ```
+<details>
+<summary>🔧 Full Python Implementation (click to expand)</summary>
+  
+```python
+def generate_user_profile(user_reviews):
+    prompt = f"""
+You are a professional shopping assistant.
+
+Analyze the following user reviews and summarize their preferences.
+
+Reviews:
+\"\"\"{user_reviews[:Config.MAX_REVIEW_LENGTH]}\"\"\"
+
+Return JSON with:
+- "preferred_products"
+- "liked_features"
+- "dislikes"
+- "potential_interests"
+"""
+    inputs = profile_tokenizer(prompt, return_tensors="pt", truncation=True, max_length=1024).to(profile_model.device)
+    outputs = profile_model.generate(
+        **inputs,
+        max_new_tokens=Config.MAX_NEW_TOKENS,
+        temperature=Config.TEMPERATURE,
+        top_p=Config.TOP_P,
+        repetition_penalty=Config.REPETITION_PENALTY,
+        pad_token_id=profile_tokenizer.eos_token_id
+    )
+    raw_output = profile_tokenizer.decode(outputs[0], skip_special_tokens=True)
+    json_str = raw_output[raw_output.find("{"):raw_output.rfind("}")+1]
+    return json.loads(json_str)
+```
+</details>
+
 
 <details>
 <summary>🔧 Full Python Implementation (click to expand)</summary>
