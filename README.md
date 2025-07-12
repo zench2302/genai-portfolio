@@ -143,12 +143,15 @@ Output:
 ```
 </details>
 
+💡 Full prompt templates available in [PROMPTS.md](PROMPTS.md)
+
 ### Selected Outputs
 
 <img src="assets/LLM_recitem3.png" width="720">
 
 
 ### Evaluation Snapshot
+The following metrics reflect the system's performance on non-cold-start users only!
 
 | Metric                  | Score (non-cold start) |
 |-------------------------|------------------------|
