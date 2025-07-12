@@ -1,4 +1,4 @@
-## 📚 Table of Contents
+# 📚 Table of Contents
 
 - 🧠 [Jia Jia – GenAI Project Portfolio](#-jia-jia--genai-project-portfolio)
   - 📌 [LLM-Based Product Recommender](https://github.com/zench2302/llm-recommender)
