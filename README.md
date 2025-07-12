@@ -47,25 +47,6 @@ Return JSON with:
 - "dislikes"
 - "potential_interests"
 ```
-
-**Ad-Slogan Prompt summary (Flan-T5)**
-```text
-You are an expert e-commerce copywriter creating unique, playful ad slogans.
-
-Product:
-- Title: ...
-- Description: ...
-- Rating: ...
-
-User:
-- Likes: ...
-- Dislikes: ...
-
-Your task:
-- Write ONE catchy slogan (≤12 words)
-- Avoid repeating product name or brand
-- Use playful, emotional, or surprising tone
-```
 <details>
 <summary>🔧 Full Python Implementation (click to expand)</summary>
   
@@ -100,6 +81,24 @@ Return JSON with:
 ```
 </details>
 
+**Ad-Slogan Prompt summary (Flan-T5)**
+```text
+You are an expert e-commerce copywriter creating unique, playful ad slogans.
+
+Product:
+- Title: ...
+- Description: ...
+- Rating: ...
+
+User:
+- Likes: ...
+- Dislikes: ...
+
+Your task:
+- Write ONE catchy slogan (≤12 words)
+- Avoid repeating product name or brand
+- Use playful, emotional, or surprising tone
+```
 
 <details>
 <summary>🔧 Full Python Implementation (click to expand)</summary>
