@@ -1,4 +1,9 @@
-# 📚 Table of Contents
+# 🧠 Jia Jia – GenAI Project Portfolio
+
+Welcome! This is a collection of my recent projects in Generative AI, built during my MSc Data Science at LSE and reflecting my transition into AI product development. My focus has been on LLM-based recommendation systems, retrieval-augmented generation (RAG), and prompt engineering with open-source tools.
+
+
+### 📚 Table of Contents
 
 - 🧠 [Jia Jia – GenAI Project Portfolio](#-jia-jia--genai-project-portfolio)
   - 📌 [LLM-Based Product Recommender](#-1-llm-based-product-recommender)
@@ -7,17 +12,6 @@
 
 - 🧑‍🎨 [🎨 Creative Tech](#creative-tech)
   - 🎧 [Live Coding with Strudel](#-live-coding-with-strudel-exploring-code-based-music-interaction)
-
-
-  
-# 🧠 Jia Jia – GenAI Project Portfolio
-
-Welcome! This is a collection of my recent projects in Generative AI, built during my MSc Data Science at LSE and reflecting my transition into AI product development. My focus has been on LLM-based recommendation systems, retrieval-augmented generation (RAG), and prompt engineering with open-source tools.
-
-## 📚 Table of Contents
-- [🧠 Jia Jia – GenAI Project Portfolio](#-jia-jia--genai-project-portfolio)
-- [🎨 Creative Tech](#creative-tech)
-  - [🎧 Live Coding with Strudel](#-live-coding-with-strudel-exploring-code-based-music-interaction)
 
 ---
 
