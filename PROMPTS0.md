@@ -42,9 +42,10 @@ Return JSON with:
     raw_output = profile_tokenizer.decode(outputs[0], skip_special_tokens=True)
     json_str = raw_output[raw_output.find("{"):raw_output.rfind("}")+1]
     return json.loads(json_str)
+```
 
+## 💡 2. Ad-Style Slogan Generation via Flan-T5
 
-##💡 2. Ad-Style Slogan Generation via Flan-T5
 ```python
 def build_ad_prompt(product_info, user_profile):
     title = product_info.get('title', 'Unknown Product')
@@ -81,4 +82,4 @@ Your task:
 
 Output:
 """
-
+```
