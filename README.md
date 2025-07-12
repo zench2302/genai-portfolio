@@ -28,18 +28,25 @@ Developed an end-to-end recommendation system powered by LLMs for Amazon product
 - FAISS for approximate nearest neighbor (ANN) vector search and candidate retrieval  
 - Prompt engineering for review summarization and recommendation reasoning
 
-**Tech Stack**: Nous-Hermes-2 · Flan-T5 · BGE Embedding · MiniLM · FAISS · Prompt Engineering · Hugging Face Transformers · Google Colab
-
-
-**Highlights:** 
-- Indexed 50K+ reviews with semantic search  
-- Designed prompt chain for category-aware recommendations  
-- Optimized for fast response on local CPU setup
-
 **System and Recommendation Pipeline**
 
 <img src="assets/LLM_pipeline.png" width="640">
 
+**User Profiling Prompt (Mistral)**
+```text
+You are a professional shopping assistant.
+
+Analyze the following user reviews and summarize their preferences.
+
+Reviews:
+""" <user reviews> """
+
+Return JSON with:
+- "preferred_products"
+- "liked_features"
+- "dislikes"
+- "potential_interests"
+```
 
 **Selected Outputs**
 
