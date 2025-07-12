@@ -66,7 +66,10 @@ Your task:
 - Avoid repeating product name or brand
 - Use playful, emotional, or surprising tone
 ```
-<details> <summary>🔧 Full Python Implementation (click to expand)</summary>
+
+<details>
+<summary>🔧 Full Python Implementation (click to expand)</summary>
+  
 ```python
 def build_ad_prompt(product_info, user_profile):
     title = product_info.get('title', 'Unknown Product')
