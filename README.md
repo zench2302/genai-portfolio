@@ -145,6 +145,8 @@ Output:
 
 💡 Full prompt templates available in [PROMPTS.md](PROMPTS.md)
 
+---
+
 ### Selected Outputs
 
 <img src="assets/LLM_recitem3.png" width="720">
