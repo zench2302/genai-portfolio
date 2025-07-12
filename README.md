@@ -19,14 +19,17 @@ Welcome! This is a collection of my recent projects in Generative AI, built duri
 
 **Description:** 
 
-Developed an end-to-end recommendation system powered by LLMs for Amazon product reviews. The system embeds product metadata and review content using Flan-T5 and MiniLM, then computes similarity via Faiss for real-time Top-N recommendations.
+Developed an end-to-end recommendation system powered by LLMs for Amazon product reviews. The system embeds product metadata and review content using Flan-T5 and MiniLM, then computes similarity via Faiss for Top-5 recommendations.
 
-**Key Technologies:**
-- Flan-T5 for summarization and structure refinement  
-- MiniLM embeddings  
-- Faiss vector search (ANN)  
-- Prompt-based review reasoning  
-- Scikit-learn, Pandas, Streamlit (prototype UI)
+**Key Technologies**:  
+- Nous-Hermes-2 (Mistral) for generating user profiles from review history
+- Flan-T5 for generating ad-style recommendation reasons  
+- BGE (BAAI) and MiniLM embeddings for product and user vectorization  
+- FAISS for approximate nearest neighbor (ANN) vector search and candidate retrieval  
+- Prompt engineering for review summarization and recommendation reasoning
+
+**Tech Stack**: Nous-Hermes-2 · Flan-T5 · BGE Embedding · MiniLM · FAISS · Prompt Engineering · Hugging Face Transformers · Google Colab
+
 
 **Highlights:** 
 - Indexed 50K+ reviews with semantic search  
