@@ -1,12 +1,13 @@
 # 📚 Table of Contents
 
 - 🧠 [Jia Jia – GenAI Project Portfolio](#-jia-jia--genai-project-portfolio)
-  - 📌 [LLM-Based Product Recommender](https://github.com/zench2302/llm-recommender)
-  - 📌 [Twitch Topic Extraction & Sentiment Analysis](https://github.com/zench2302/Twitch_stream_analytics)
-  - 📌 [AI-Powered Travel Planner – Vibego](https://github.com/zench2302/vibego2)
+  - 📌 [LLM-Based Product Recommender](#-1-llm-based-product-recommender)
+  - 📌 [Twitch Topic Extraction & Sentiment Analysis](#-2-twitch-topic-extraction--sentiment-analysis)
+  - 📌 [AI-Powered Travel Planner – Vibego](#-3-ai-powered-travel-planner--vibego)
 
 - 🧑‍🎨 [🎨 Creative Tech](#creative-tech)
   - 🎧 [Live Coding with Strudel](#-live-coding-with-strudel-exploring-code-based-music-interaction)
+
 
   
 # 🧠 Jia Jia – GenAI Project Portfolio
