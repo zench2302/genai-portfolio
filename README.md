@@ -8,7 +8,7 @@ Welcome! This is a collection of my recent projects in Generative AI, built duri
 - 🧠 [Jia Jia – GenAI Project Portfolio](#-jia-jia--genai-project-portfolio)
   - 📌 [LLM-Based Product Recommender](#-1-llm-based-product-recommender)
   - 📌 [Twitch Topic Extraction & Sentiment Analysis](#-2-twitch-topic-extraction--sentiment-analysis)
-  - 📌 [AI-Powered Travel Planner – Vibego](#-3-ai-powered-travel-planner--vibego)
+  - 📌 [AI-Powered Travel Planner – Vibego](#-3-AI--Powered-Travel-Planner--Vibego)
 
 - 🧑‍🎨 [🎨 Creative Tech](#creative-tech)
   - 🎧 [Live Coding with Strudel](#-live-coding-with-strudel-exploring-code-based-music-interaction)
