@@ -1,4 +1,4 @@
-# 🧠 Jia Jia – GenAI Project Portfolio
+# 🧠 Jia Jia – GenAI/ML Project Portfolio
 
 Welcome! This is a collection of my recent projects in Generative AI, built during my MSc Data Science at LSE and reflecting my transition into AI product development. My focus has been on LLM-based recommendation systems, retrieval-augmented generation (RAG), and prompt engineering with open-source tools.
 
@@ -9,6 +9,7 @@ Welcome! This is a collection of my recent projects in Generative AI, built duri
   - 📌 [LLM-Based Product Recommender](#-1-llm-based-product-recommender)
   - 📌 [Twitch Topic Extraction & Sentiment Analysis](#-2-twitch-topic-extraction--sentiment-analysis)
   - 📌 [AI-Powered Travel Planner - Vibego](#-3-ai-powered-travel-planner---vibego)
+- ⚙️ [Machine Learning Projects]
   - 📌 [Legacy Donation Analysis](#-4-legacy-donation-analysis)
 
 - 🧑‍🎨 [🎨 Creative Tech](#creative-tech)
