@@ -5,11 +5,11 @@ Welcome! This is a collection of my recent projects in Generative AI, built duri
 
 ### 📚 Table of Contents
 
-- 🧠 [Jia Jia – GenAI Project Portfolio](#-jia-jia--genai-project-portfolio)
+## 🧠 GenAI Project Portfolio
   - 📌 [LLM-Based Product Recommender](#-1-llm-based-product-recommender)
   - 📌 [Twitch Topic Extraction & Sentiment Analysis](#-2-twitch-topic-extraction--sentiment-analysis)
   - 📌 [AI-Powered Travel Planner - Vibego](#-3-ai-powered-travel-planner---vibego)
-- ⚙️ [Machine Learning Projects]
+## ⚙️ Machine Learning Projects
   - 📌 [Legacy Donation Analysis](#-4-legacy-donation-analysis)
 
 - 🧑‍🎨 [🎨 Creative Tech](#creative-tech)
