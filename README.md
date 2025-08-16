@@ -192,11 +192,29 @@ An AI-assisted travel itinerary generator that combines OpenAI's GPT API with Go
 - Firebase for session handling
 
 **Highlights:**  
+- Developed predictive models for alumni donation likelihood using structured engagement datasets
+- Evaluated Gradient-boosted models (**XGBoost, LightGBM, CatBoost**) alongside logistic regression, random forest
+- Fine-tuned models via Grid & Random Search algorithms, implemented model stacking for optimal performance
+- Delivered data preprocessing, feature engineering, and model evaluation using Google Colab
+
+---
+## 📌 4. [Legacy Donation Analysis](https://github.com/zench2302/Capstone_LegacyAnalysisProspection)
+**Description:**  
+Study the major influential features in making legacy donation for alumni.
+
+**Key Technologies:**  
+- gradient-based models: GBDT, XGBoost, LightGBM, CatBoost
+- traditional models: logistic regression with/without L1
+- Unsupervised learning: Factor Analysis, Cluster Analsis.
+- feature engineering
+
+**Highlights:**  
 - Modular prompt design to adapt to user preferences  
 - Route optimization based on timing and transport  
 - Designed for deployment as a lightweight web app
 
 ---
+
 # Creative Tech
 ### 1. 🎧 Live Coding with Strudel: Exploring Code-Based Music Interaction
 London Data Week 2025 – Algorave Workshop @ King’s Institute for AI
