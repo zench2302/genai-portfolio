@@ -11,6 +11,7 @@ Welcome! This is a collection of my recent projects in Generative AI, built duri
   - 📌 [AI-Powered Travel Planner - Vibego](#-3-ai-powered-travel-planner---vibego)
 ### ⚙️ Machine Learning Projects
   - 📌 [Legacy Donation Analysis](#-4-legacy-donation-analysis)
+  - 📌 [Speech Emotion Detection](#-5-speech-Emotion-Detection)
 
 ### 🧑‍🎨 Creative Tech
   - 🎧 [Live Coding with Strudel](#-live-coding-with-strudel-exploring-code-based-music-interaction)
@@ -214,6 +215,8 @@ Study the major influential features in making legacy donation for alumni.
 - Modular prompt design to adapt to user preferences  
 - Route optimization based on timing and transport  
 - Designed for deployment as a lightweight web app
+
+---
 
 ## 📌 5. [Speech Emotion Detection](https://github.com/zench2302/emotion_detection)
 **Description:**  
