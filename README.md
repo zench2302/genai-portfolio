@@ -215,6 +215,16 @@ Study the major influential features in making legacy donation for alumni.
 - Route optimization based on timing and transport  
 - Designed for deployment as a lightweight web app
 
+## 📌 5. [Speech Emotion Detection](https://github.com/zench2302/emotion_detection)
+**Description:**  
+Detection emotion from speeches.
+
+**Key Technologies:**  
+- hugging face transformer
+- CNN, BiLSTM, HuBERT
+
+**Highlights:**  
+
 ---
 
 # Creative Tech
