@@ -3,7 +3,7 @@
 Welcome! This is a collection of my recent projects in Generative AI, built during my MSc Data Science at LSE and reflecting my transition into AI product development. My focus has been on LLM-based recommendation systems, retrieval-augmented generation (RAG), and prompt engineering with open-source tools.
 
 
-### 📚 Table of Contents
+## 📚 Table of Contents
 
 ### 🧠 GenAI Project Portfolio
   - 📌 [LLM-Based Product Recommender](#-1-llm-based-product-recommender)
