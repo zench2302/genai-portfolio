@@ -9,7 +9,7 @@ Welcome! This is a collection of my recent projects in Generative AI, built duri
   - 📌 [LLM-Based Product Recommender](#-1-llm-based-product-recommender)
   - 📌 [Twitch Topic Extraction & Sentiment Analysis](#-2-twitch-topic-extraction--sentiment-analysis)
   - 📌 [AI-Powered Travel Planner - Vibego](#-3-ai-powered-travel-planner---vibego)
-### ⚙️ Machine Learning Projects
+### ⚙️ Machine Learning & Deep Learning Projects
   - 📌 [Legacy Donation Analysis](#-4-Legacy-Donation-Analysis)
   - 📌 [Speech Emotion Detection](#-5-Speech-Emotion-Detection)
 
