@@ -12,7 +12,7 @@ Welcome! This is a collection of my recent projects in Generative AI, built duri
 ### ⚙️ Machine Learning & Deep Learning Projects
   - 📌 [Legacy Donation Analysis](#-4-Legacy-Donation-Analysis)
   - 📌 [Speech Emotion Detection](#-5-Speech-Emotion-Detection)
-  - 📌 [HMT UK GDP](#-HMT-UK-GDP-Prediction)
+  - 📌 [HMT UK GDP](#-6-HMT-UK-GDP-Prediction)
 
 ### 🧑‍🎨 Creative Tech
   - 🎧 [Live Coding with Strudel](#-live-coding-with-strudel-exploring-code-based-music-interaction)
