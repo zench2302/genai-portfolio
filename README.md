@@ -10,8 +10,8 @@ Welcome! This is a collection of my recent projects in Generative AI, built duri
   - 📌 [Twitch Topic Extraction & Sentiment Analysis](#-2-twitch-topic-extraction--sentiment-analysis)
   - 📌 [AI-Powered Travel Planner - Vibego](#-3-ai-powered-travel-planner---vibego)
 ### ⚙️ Machine Learning Projects
-  - 📌 [Legacy Donation Analysis](#-4-legacy-donation-analysis)
-  - 📌 [Speech Emotion Detection](#-5-speech-Emotion-Detection)
+  - 📌 [Legacy Donation Analysis](#-4-Legacy-Donation-Analysis)
+  - 📌 [Speech Emotion Detection](#-5-Speech-Emotion-Detection)
 
 ### 🧑‍🎨 Creative Tech
   - 🎧 [Live Coding with Strudel](#-live-coding-with-strudel-exploring-code-based-music-interaction)
