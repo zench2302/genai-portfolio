@@ -12,6 +12,7 @@ Welcome! This is a collection of my recent projects in Generative AI, built duri
 ### ⚙️ Machine Learning & Deep Learning Projects
   - 📌 [Legacy Donation Analysis](#-4-Legacy-Donation-Analysis)
   - 📌 [Speech Emotion Detection](#-5-Speech-Emotion-Detection)
+  - 📌 [HMT UK GDP](#-HMT-UK-GDP-Prediction)
 
 ### 🧑‍🎨 Creative Tech
   - 🎧 [Live Coding with Strudel](#-live-coding-with-strudel-exploring-code-based-music-interaction)
@@ -225,6 +226,17 @@ Detection emotion from speeches.
 **Key Technologies:**  
 - hugging face transformer
 - CNN, BiLSTM, HuBERT
+
+**Highlights:**  
+
+---
+## 📌 6. [HMT UK GDP Prediction](https://github.com/zench2302/emotion_detection)
+**Description:**  
+
+
+**Key Technologies:**  
+- SVM
+- LSTM 
 
 **Highlights:**  
 
