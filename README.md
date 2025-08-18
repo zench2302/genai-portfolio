@@ -13,6 +13,7 @@ Welcome! This is a collection of my recent projects in Generative AI, built duri
   - 📌 [Legacy Donation Analysis](#-4-Legacy-Donation-Analysis)
   - 📌 [Speech Emotion Detection](#-5-Speech-Emotion-Detection)
   - 📌 [HMT UK GDP](#-6-HMT-UK-GDP-Prediction)
+  - 📌 [Brain Tumor Classification](#-7-Brain-Tumor-Classification)
 
 ### 🧑‍🎨 Creative Tech
   - 🎧 [Live Coding with Strudel](#-live-coding-with-strudel-exploring-code-based-music-interaction)
@@ -231,6 +232,24 @@ Detection emotion from speeches.
 
 ---
 ## 📌 6. [HMT UK GDP Prediction](https://github.com/zench2302/emotion_detection)
+**Description:**  
+- Traditional econometric nowcasting methods suffer from overfitting and miss complex real-time relationships.
+- Managing missing data, limited historical records, and high-dimensional features while maintaining interpretability.
+- Advanced data engineering with automated feature generation, robust selection algorithms, and optimised ML models for more reliable forecasts
+
+
+**Key Technologies:**  
+- machine learning models: Random Forest, SVM, GBDT, XGBoost 
+- deep learning models: CNN, LSTMm Transformer
+- feature engineering using NLP 
+
+**Highlights:**  
+- Forecasts have improved the accuracy for nowcasting UK GDP by 40%
+- Dynamic machine learning framework rapidly evaluates new economic signals to enhance predictions
+- Daily forecasts powered by real-time text analysis capture the latest market shifts and sentiment
+  
+---
+## 📌 7. [Brain Tumor Classification](https://github.com/zench2302/meidical_image_classification)
 **Description:**  
 - Traditional econometric nowcasting methods suffer from overfitting and miss complex real-time relationships.
 - Managing missing data, limited historical records, and high-dimensional features while maintaining interpretability.
