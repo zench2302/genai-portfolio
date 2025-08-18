@@ -249,7 +249,7 @@ Detection emotion from speeches.
   
 ---
 
-# Creative Tech
+## Creative Tech
 ### 1. 🎧 Live Coding with Strudel: Exploring Code-Based Music Interaction
 London Data Week 2025 – Algorave Workshop @ King’s Institute for AI
 
@@ -268,5 +268,7 @@ The session also prompted reflection on the human-computer interaction aspect of
 
 ## 📫 Contact
 
-To learn more, visit my main profile: [github.com/zench2302](https://github.com/zench2302)  
-Or connect on LinkedIn: [linkedin.com/in/jia-jia-7a73359a](https://linkedin.com/in/jia-jia-7a73359a)
+GitHub: [github.com/zench2302](https://github.com/zench2302)  
+LinkedIn: [linkedin.com/in/jia-jia-7a73359a](https://linkedin.com/in/jia-jia-7a73359a)
+Email:J.Jia9@lse.ac.uk
+
