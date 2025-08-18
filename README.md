@@ -4,16 +4,16 @@ Welcome! This is a collection of my recent projects in Generative AI, built duri
 
 
 ## 📚 Table of Contents
-
-### 🧠 GenAI Project Portfolio
-  - 📌 [LLM-Based Product Recommender](#-1-llm-based-product-recommender)
-  - 📌 [Twitch Topic Extraction & Sentiment Analysis](#-2-twitch-topic-extraction--sentiment-analysis)
-  - 📌 [AI-Powered Travel Planner - Vibego](#-3-ai-powered-travel-planner---vibego)
-### ⚙️ Machine Learning & Deep Learning Projects
+### ⚙️ Core ML & DL Modeling (foundation skills)
   - 📌 [Legacy Donation Analysis](#-4-Legacy-Donation-Analysis)
   - 📌 [Speech Emotion Detection](#-5-Speech-Emotion-Detection)
   - 📌 [HMT UK GDP](#-6-HMT-UK-GDP-Prediction)
   - 📌 [Brain Tumor Classification](#-7-Brain-Tumor-Classification)
+### 🧠 Applied GenAI & Product Innovation (frontier applications)
+  - 📌 [LLM-Based Product Recommender](#-1-llm-based-product-recommender)
+  - 📌 [Twitch Topic Extraction & Sentiment Analysis](#-2-twitch-topic-extraction--sentiment-analysis)
+  - 📌 [AI-Powered Travel Planner - Vibego](#-3-ai-powered-travel-planner---vibego)
+
 
 ### 🧑‍🎨 Creative Tech
   - 🎧 [Live Coding with Strudel](#-live-coding-with-strudel-exploring-code-based-music-interaction)
