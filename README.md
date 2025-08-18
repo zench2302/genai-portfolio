@@ -251,21 +251,21 @@ Detection emotion from speeches.
 ---
 ## 📌 7. [Brain Tumor Classification](https://github.com/zench2302/meidical_image_classification)
 **Description:**  
-- Traditional econometric nowcasting methods suffer from overfitting and miss complex real-time relationships.
-- Managing missing data, limited historical records, and high-dimensional features while maintaining interpretability.
-- Advanced data engineering with automated feature generation, robust selection algorithms, and optimised ML models for more reliable forecasts
-
+Developed a deep learning framework for classifying brain MRI scans into four categories: no tumour, glioma, meningioma, and pituitary. Conducted a comparative study of five state-of-the-art CNN architectures, leveraging transfer learning, fine-tuning, and data augmentation to improve diagnostic accuracy on limited medical imaging data.
 
 **Key Technologies:**  
-- machine learning models: Random Forest, SVM, GBDT, XGBoost 
-- deep learning models: CNN, LSTMm Transformer
-- feature engineering using NLP 
+- CNN architectures: EfficientNet, ResNet-50, ResNet-101, Inception V3, VGG16
+- Transfer learning with ImageNet pre-trained weights
+- Data preprocessing: normalization, resizing, batching with generators
+- Data augmentation: rotation, flipping, cropping, shifting
+- Fine-tuning with selective layer unfreezing and early stopping
 
 **Highlights:**  
-- Forecasts have improved the accuracy for nowcasting UK GDP by 40%
-- Dynamic machine learning framework rapidly evaluates new economic signals to enhance predictions
-- Daily forecasts powered by real-time text analysis capture the latest market shifts and sentiment
-  
+- Achieved 95% validation accuracy with Inception V3 after fine-tuning
+- Showed that shallower ResNet-50 outperformed deeper ResNet-101 under limited data
+- Demonstrated practical application of pretrained CNNs in medical diagnosis
+- Identified dataset size and compute limitations as key challenges, guiding future research
+
 ---
 
 ## Creative Tech
