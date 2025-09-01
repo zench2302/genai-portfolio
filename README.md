@@ -266,10 +266,6 @@ An AI-assisted travel itinerary generator that combines OpenAI's GPT API with Go
 - Firebase for session handling
 
 **Highlights:**  
-- Developed predictive models for alumni donation likelihood using structured engagement datasets
-- Evaluated Gradient-boosted models (**XGBoost, LightGBM, CatBoost**) alongside logistic regression, random forest
-- Fine-tuned models via Grid & Random Search algorithms, implemented model stacking for optimal performance
-- Delivered data preprocessing, feature engineering, and model evaluation using Google Colab
 
 ---
 
