@@ -266,7 +266,10 @@ An AI-assisted travel itinerary generator that combines OpenAI's GPT API with Go
 - Firebase for session handling
 
 **Highlights:**  
-
+- Modular prompt design to adapt to user preferences  
+- Route optimization based on timing and transport  
+- Designed for deployment as a lightweight web app
+  
 ---
 
 
