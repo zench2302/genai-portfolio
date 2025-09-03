@@ -52,7 +52,7 @@ Study the major influential features in making legacy donation for alumni.
 - Demonstrated generalization across heterogeneous datasets, simulating real-world home environments.
 
 ---
-## 📌 3. [HMT UK GDP Prediction](https://github.com/zench2302/emotion_detection)
+## 📌 3. [HMT UK GDP Prediction](https://github.com/zench2302/nowcasting-uk-gdp)
 **Description:**  
 - Traditional econometric nowcasting methods suffer from overfitting and miss complex real-time relationships.
 - Managing missing data, limited historical records, and high-dimensional features while maintaining interpretability.
