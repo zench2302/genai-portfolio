@@ -294,5 +294,6 @@ The session also prompted reflection on the human-computer interaction aspect of
 
 GitHub: [github.com/zench2302](https://github.com/zench2302)  
 LinkedIn: [linkedin.com/in/jia-jia-7a73359a](https://linkedin.com/in/jia-jia-7a73359a)
+
 Email:J.Jia9@lse.ac.uk
 
