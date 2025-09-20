@@ -45,52 +45,52 @@ This project, in collaboration with LSE Philanthropy and Global Engagement (PAGE
 
 ---
 
-## 📌 2. [Speech Emotion Detection](https://github.com/zench2302/emotion_detection)
-**Description:**  
+# 📌 2. [Speech Emotion Detection](https://github.com/zench2302/emotion_detection)
+### Description  
 - Developed a deep learning pipeline for robust emotion classification from speech across four benchmark datasets (SAVEE, RAVDESS, CREMA-D, TESS).
 - Combined feature extraction (HuBERT, spectrograms) with advanced sequence modeling to capture nuanced prosodic and spectral patterns.
 
-**Key Technologies:**  
+### Key Technologies  
 - Deep learning models: CNN, BiLSTM, GRU, Attention, Multi-Head Attention
 - Pre-trained speech representations: HuBERT
 - Optimization: Data augmentation (noise, pitch, tempo), Label smoothing, AdamW
 
-**Highlights:**  
+### Highlights  
 - Achieved 87.6% validation accuracy with BiLSTM + Attention model after augmentation and optimization.
 - Implemented joint fine-tuning of HuBERT + classifier to adapt large-scale speech representations for downstream tasks.
 - Demonstrated generalization across heterogeneous datasets, simulating real-world home environments.
 
 ---
-## 📌 3. [HMT UK GDP Prediction](https://github.com/zench2302/nowcasting-uk-gdp)
-**Description:**  
+# 📌 3. [HMT UK GDP Prediction](https://github.com/zench2302/nowcasting-uk-gdp)
+### Description
 - Traditional econometric nowcasting methods suffer from overfitting and miss complex real-time relationships.
 - Managing missing data, limited historical records, and high-dimensional features while maintaining interpretability.
 - Advanced data engineering with automated feature generation, robust selection algorithms, and optimised ML models for more reliable forecasts
 
 
-**Key Technologies:**  
+### Key Technologies
 - machine learning models: Random Forest, SVM, GBDT, XGBoost 
 - deep learning models: CNN, LSTMm Transformer
 - feature engineering using NLP 
 
-**Highlights:**  
+### Highlights
 - Forecasts have improved the accuracy for nowcasting UK GDP by 40%
 - Dynamic machine learning framework rapidly evaluates new economic signals to enhance predictions
 - Daily forecasts powered by real-time text analysis capture the latest market shifts and sentiment
   
 ---
-## 📌 4. [Brain Tumor Classification](https://github.com/zench2302/meidical_image_classification)
-**Description:**  
+# 📌 4. [Brain Tumor Classification](https://github.com/zench2302/meidical_image_classification)
+### Description
 Developed a deep learning framework for classifying brain MRI scans into four categories: no tumour, glioma, meningioma, and pituitary. Conducted a comparative study of five state-of-the-art CNN architectures, leveraging transfer learning, fine-tuning, and data augmentation to improve diagnostic accuracy on limited medical imaging data.
 
-**Key Technologies:**  
+### Key Technologies
 - CNN architectures: EfficientNet, ResNet-50, ResNet-101, Inception V3, VGG16
 - Transfer learning with ImageNet pre-trained weights
 - Data preprocessing: normalization, resizing, batching with generators
 - Data augmentation: rotation, flipping, cropping, shifting
 - Fine-tuning with selective layer unfreezing and early stopping
 
-**Highlights:**  
+### Highlights  
 - Achieved 95% validation accuracy with Inception V3 after fine-tuning
 - Showed that shallower ResNet-50 outperformed deeper ResNet-101 under limited data
 - Demonstrated practical application of pretrained CNNs in medical diagnosis
@@ -98,13 +98,13 @@ Developed a deep learning framework for classifying brain MRI scans into four ca
 
 ---
 
-## 📌 5. [LLM-Based Product Recommender](https://github.com/zench2302/llm-recommender)
+# 📌 5. [LLM-Based Product Recommender](https://github.com/zench2302/llm-recommender)
 
-### Description: 
+### Description
 
 Developed an end-to-end recommendation system powered by LLMs for Amazon product reviews. The system embeds product metadata and review content using Flan-T5 and MiniLM, then computes similarity via Faiss for Top-5 recommendations.
 
-### Key Technologies:  
+### Key Technologies
 - Nous-Hermes-2 (Mistral) for generating user profiles from review history
 - Flan-T5 for generating ad-style recommendation reasons  
 - BGE (BAAI) and MiniLM embeddings for product and user vectorization  
@@ -245,36 +245,36 @@ The following metrics reflect the system's performance on non-cold-start users o
 
 ---
 
-## 📌 6. [Twitch Topic Extraction & Sentiment Analysis](https://github.com/zench2302/Twitch_stream_analytics)
+# 📌 6. [Twitch Topic Extraction & Sentiment Analysis](https://github.com/zench2302/Twitch_stream_analytics)
 
-**Description:**  
+### Description 
 Built a real-time system to extract dominant topics and sentiment streams from Twitch chat logs. Designed to detect mood shifts and trending discussion in live streams.
 
-**Key Technologies:**  
+### Key Technologies
 - BERTopic + UMAP + HDBSCAN for topic modeling  
 - Vader + GPT-based sentiment refinement  
 - WebSocket-based data ingestion  
 - Tokenized message streams with temporal segmentation
 
-**Highlights:**  
+### Highlights
 - Capable of handling 10K+ chat lines per minute  
 - Visual clustering of evolving discussion topics  
 - Used GPT-4 for refining topic labeling and summary
 
 ---
 
-## 📌 7. [AI-Powered Travel Planner - Vibego](https://github.com/zench2302/vibego2)
+# 📌 7. [AI-Powered Travel Planner - Vibego](https://github.com/zench2302/vibego2)
 
-**Description:**  
+### Description  
 An AI-assisted travel itinerary generator that combines OpenAI's GPT API with Google Maps data to produce city-specific, time-aware plans.
 
-**Key Technologies:**  
+### Key Technologies  
 - OpenAI (GPT-4) for summarization and suggestion  
 - Google Maps API for location + travel time data  
 - Prompt chaining for adaptive personalization  
 - Firebase for session handling
 
-**Highlights:**  
+### Highlights  
 - Modular prompt design to adapt to user preferences  
 - Route optimization based on timing and transport  
 - Designed for deployment as a lightweight web app
@@ -282,7 +282,7 @@ An AI-assisted travel itinerary generator that combines OpenAI's GPT API with Go
 ---
 
 
-## Creative Tech
+# Creative Tech
 ### 1. 🎧 Live Coding with Strudel: Exploring Code-Based Music Interaction
 London Data Week 2025 – Algorave Workshop @ King’s Institute for AI
 
@@ -303,6 +303,5 @@ The session also prompted reflection on the human-computer interaction aspect of
 
 GitHub: [github.com/zench2302](https://github.com/zench2302)  
 LinkedIn: [linkedin.com/in/jia-jia-7a73359a](https://linkedin.com/in/jia-jia-7a73359a)
-
 Email:J.Jia9@lse.ac.uk
 
