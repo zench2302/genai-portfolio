@@ -21,7 +21,7 @@ Welcome! This is a collection of my recent projects in Generative AI, built duri
 ---
 # 📌 1. [Legacy Donation Analysis](https://github.com/zench2302/Capstone_LegacyAnalysisProspection)
 ### Description
-This project, conducted in collaboration with **LSE Philanthropy and Global Engagement (LSE PAGE)**, analyzes the drivers of **legacy donation among alumni**. Legacy giving is a growing strategic priority for LSE, providing sustainable long-term funding for scholarships, research, and institutional development. By applying data-driven methods to real alumni records, this work delivers meaningful and actionable insights to support PAGE’s legacy marketing programme. Using a combination of traditional statistical models and advanced machine learning techniques, we study demographic, engagement, and donation-related features to uncover the key factors that influence legacy giving.
+This project, in collaboration with LSE Philanthropy and Global Engagement (PAGE), applies data-driven methods to analyze the drivers of alumni legacy donation. By combining statistical and machine learning models on real alumni records, we identify demographic, engagement, and giving factors that shape legacy pledges and provide actionable insights for PAGE’s marketing strategy.
 
 ### Machine Learning Models
 - Gradient-based models: GBDT, XGBoost, LightGBM, CatBoost
