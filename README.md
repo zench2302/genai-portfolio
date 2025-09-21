@@ -31,7 +31,9 @@ This project, in collaboration with LSE Philanthropy and Global Engagement (PAGE
 ### Pipeline & Key Visuals
 **Pipeline** 
 
+<p style="margin-left: 40px;">
 <img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/98e77c78-5866-4564-b014-f0c3040ae2e4" />
+</p>
 
 **Key Visuals**
 <figure>
