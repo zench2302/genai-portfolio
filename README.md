@@ -275,6 +275,10 @@ Built a real-time system to extract dominant topics and sentiment streams from T
 - WebSocket-based data ingestion  
 - Tokenized message streams with temporal segmentation
 
+### Pipeline & Key Visuals
+**Pipeline**
+
+
 ### Highlights
 - Capable of handling 10K+ chat lines per minute  
 - Visual clustering of evolving discussion topics  
