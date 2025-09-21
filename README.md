@@ -79,6 +79,7 @@ This project, in collaboration with LSE Philanthropy and Global Engagement (PAGE
 - Demonstrated generalization across heterogeneous datasets, simulating real-world home environments.
 
 ---
+
 # 📌 3. [HMT UK GDP Prediction](https://github.com/zench2302/nowcasting-uk-gdp)
 ### Description
 - Traditional econometric nowcasting methods suffer from overfitting and miss complex real-time relationships.
