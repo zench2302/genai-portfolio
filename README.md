@@ -118,7 +118,6 @@ Developed a deep learning framework for classifying brain MRI scans into four ca
 ---
 
 # 📌 5. [LLM-Based Product Recommender](https://github.com/zench2302/llm-recommender)
-
 ### Description
 Developed an end-to-end recommendation system powered by LLMs for Amazon product reviews. The system embeds product metadata and review content using Flan-T5 and MiniLM, then computes similarity via Faiss for Top-5 recommendations.
 
