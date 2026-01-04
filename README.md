@@ -285,6 +285,7 @@ Built a real-time system to extract dominant topics and sentiment streams from T
 ---
 
 # 📌 7. [AI-Powered Travel Planner - Vibego](https://github.com/zench2302/vibego2)
+<img width="1330" height="1132" alt="vibegoLogo" src="https://github.com/user-attachments/assets/3fa5e18c-d6fb-47f6-b8dc-e16f753289a7" />
 
 ### Description  
 An AI-assisted travel itinerary generator that combines OpenAI's GPT API with Google Maps data to produce city-specific, time-aware plans.
